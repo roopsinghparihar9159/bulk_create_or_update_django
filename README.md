@@ -1,0 +1,1 @@
+# bulk_create_or_update_django
